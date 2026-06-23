@@ -1,5 +1,5 @@
-# Raman-Spectroscopy---Blood-Glucose-Prediction
-This project explores the use of machine learning for blood glucose prediction using Raman spectroscopy data. The workflow includes data preprocessing, dimensionality reduction using Principal Component Analysis (PCA), model training, and performance evaluation.
+# Raman Spectroscopy for Non-Invasive Glucose Prediction
+This project explores the use of machine learning for non-invasive glucose prediction using Raman spectroscopy data. The workflow includes data preprocessing, dimensionality reduction using Principal Component Analysis (PCA), model training, and performance evaluation.
 
 The study evaluates multiple classification algorithms, including Logistic Regression, Support Vector Machine (SVM), and Random Forest, to analyze their effectiveness in predicting glucose-related outcomes from spectral measurements.
 
