@@ -21,7 +21,11 @@ The study evaluates multiple classification algorithms, including Logistic Regre
 * NumPy
 * Scikit-learn
 * Matplotlib
+  
+## Dataset
+The dataset is not included in this repository due to its size. The notebook expects the dataset to be available locally before execution.
 
 ## Project Goal
 To investigate the application of machine learning techniques on Raman spectroscopy data for glucose prediction and compare the performance of different classification models.
+
 
